@@ -36,7 +36,7 @@ avalanche network stop
 ```
 ## Authors
 
-Joselyn Riana joselynriana@gmail.com
+Jestin  gee74919@gmail.com
 
 ## License
 
